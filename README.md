@@ -33,6 +33,7 @@ cd 100DaysPython/Day01
 ## OverView for each days
 .day2 is just a simple input 
 .day3 is simple calculator 
+.day4 is simple comparison numbers
 
 ## Contributing
 
