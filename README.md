@@ -1,4 +1,3 @@
-
 # 100 Days of Python
 
 Welcome to the 100 Days of Python repository! This project is dedicated to learning Python through real-world projects over the course of 100 days.
@@ -31,9 +30,9 @@ git clone https://github.com/yourusername/100DaysPython.git
 cd 100DaysPython/Day01
 ```
 ## OverView for each days
-.day2 is just a simple input 
-.day3 is simple calculator 
-.day4 is simple comparison numbers
+- Day 2: Simple input
+- Day 3: Simple calculator
+- Day 4: Simple comparison numbers
 
 ## Contributing
 
