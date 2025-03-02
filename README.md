@@ -34,6 +34,8 @@ cd 100DaysPython/Day01
 - Day 3: Simple calculator
 - Day 4: Simple comparison numbers
 - Day 5: Simple timer countdown
+- Day 6: Simple Math Quiz Game
+- Day 7: Simple Shopping list Create
 
 ## Contributing
 
